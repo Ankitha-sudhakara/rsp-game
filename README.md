@@ -15,7 +15,7 @@ A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 3. Start playing!
 
 ## 📸 Screenshot
-![screenshot](screenshot.png)
+![screenshot](rsp.png)
 
 ## 📚 Technologies Used
 - HTML
